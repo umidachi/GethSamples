@@ -93,7 +93,7 @@ public class Sample extends AppCompatActivity {
     }
 
     private void init_nodes(String homedir){
-        String StaticNodes="[\"enode://4a3446ba1b17f8e4dfadf05a29f3f959f9dc9449ec856e73c40cfcc58e7ecbef8c1df8fdb1916db9c590da8da9e59f47fdc60e55ceb602ac1be4a26ec91e1309@[160.16.130.92]:30303?discport=0\"]";
+        String StaticNodes="[\"enode://4a3446ba1b17f8e4dfadf05a29f3f959f9dc9449ec856e73c40cfcc58e7ecbef8c1df8fdb1916db9c590da8da9e59f47fdc60e55ceb602ac1be4a26ec91e1309@[※.※.※.※]:30303?discport=0\"]";
 
         FileOutputStream fos = null;
 
